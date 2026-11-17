@@ -12,10 +12,11 @@ Between October 30 and November 9, 2026, we surveyed 121 McMaster undergraduate 
 Of the 121 students surveyed, 8 dropped out of the survey, leaving us with 113 for statistical analysis. 54.9% of these people were classified as climate doomists, while 37.2% were neutral/ambivalent and 8.0% were non-doomists (Figure 1).
 
 <p align="center">
-<img src="doomist-percentages.png" alt="figure 1" width="600"/>
+<img src="doomist-percentages.png" alt="figure 1" width="600"/> 
 </p>
 
-_Figure 1. Climate doomism classifications among 113 surveyed McMaster University undergraduate students. Students were grouped based on their responses to questions about climate change being unavoidable, its future impacts, and avoidance of personal responsibility_
+ _Figure 1. Climate doomism classifications among 113 surveyed McMaster University undergraduate students. Students were grouped based on their responses to questions about climate change being unavoidable, its future impacts, and avoidance of personal responsibility_
+
 
 Interestingly, students classified as climate doomists did not report significantly less environmental action than other groups. Neutral/ambivalent students actually reported the lowest average engagement, although these differences were not statistically significant. We also found no significant associations between doomism and the demographic or political factors examined.
 
