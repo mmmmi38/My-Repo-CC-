@@ -9,3 +9,5 @@ Between October 30 and November 9, 2026, we surveyed 121 McMaster undergraduate 
 ## Results
 Of the 121 students surveyed, 8 dropped out of the survey, leaving us with 113 for statistical analysis. 54.9% of these people were classified as climate doomists, while 37.2% were neutral/ambivalent and 8.0% were non-doomists (Figure 1).
 
+<img src="panels-and-turbine.jpg" alt="Solar Panels and Wind Turbine in a Field" width="400"/>
+
